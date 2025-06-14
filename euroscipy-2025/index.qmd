@@ -6,12 +6,9 @@ author:
 date: 2025-08-20
 format:
   poster-typst: 
-    size: "36x24"
     poster-authors: "A. Smith, B. Jones, C. Brown, D. Miller"
     departments: "Department of Computer Science"
     institution-logo: "./figures/ncstate.png"
-    footer-text: "posit::conf 2023"
-    footer-url: "https://posit.co/conference/"
     footer-emails: "abc@example.com"
     footer-color: "ebcfb2"
     keywords: ["Typesetting", "Typst", "Quarto"]

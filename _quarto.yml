@@ -5,6 +5,12 @@ project:
 format:
   html:
     theme: superhero
+  poster-typst:
+    filters:
+      - _filters/slugify.lua
+    footer-text: "{{< meta title >}}"
+    footer-url: https://paddyroddy.github.io/posters/{{< meta slug >}}
+    size: 36x24
 
 website:
   google-analytics: G-397WWHGNV5
