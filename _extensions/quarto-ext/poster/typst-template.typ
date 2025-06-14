@@ -116,7 +116,7 @@
 
   // Configure headings.
   set heading(numbering: "I.A.1.")
-  show heading: it => locate(loc => {
+  show heading: it => context(loc => {
     // Find out the final number of the heading counter.
     let levels = counter(heading).at(loc)
     let deepest = if levels != () {
