@@ -4,7 +4,7 @@ end
 
 return {
     Meta = function(m)
-        m.slug = m.title and slugify(pandoc.utils.stringify(m.title))
+        m.slug = m.subtitle and slugify(pandoc.utils.stringify(m.subtitle))
         return m
     end,
 }

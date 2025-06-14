@@ -8,8 +8,8 @@ format:
   poster-typst:
     filters:
       - _filters/slugify.lua
-    footer-text: "{{< meta title >}}"
-    footer-url: https://paddyroddy.github.io/posters/{{< meta slug >}}
+    footer-text: "{{< meta subtitle >}}"
+    footer-url: https://paddyroddy.github.io/posters/{{< meta slug >}}.qmd
     size: 36x24
 
 website:

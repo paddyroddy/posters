@@ -9,7 +9,7 @@ format:
     poster-authors: "A. Smith, B. Jones, C. Brown, D. Miller"
     departments: "Department of Computer Science"
     institution-logo: "./figures/ncstate.png"
-    footer-emails: "abc@example.com"
+    footer-emails: patrick.roddy@ucl.ac.uk
     footer-color: "ebcfb2"
     keywords: ["Typesetting", "Typst", "Quarto"]
 subtitle: "[EuroSciPy 2025](https://euroscipy.org)"
