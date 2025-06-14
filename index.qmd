@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Posters
 format:
   html:
     page-layout: full
