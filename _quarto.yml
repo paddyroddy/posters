@@ -1,0 +1,36 @@
+---
+project:
+  type: website
+
+format:
+  html:
+    theme: darkly
+  revealjs:
+    callout-appearance: simple
+    code-copy: true
+    filters:
+      - _filters/slugify.lua
+    footer: "{{< meta title >}} - <https://paddyroddy.github.io/talks>"
+    hash-type: number
+    history: false
+    incremental: true
+    link-external-icon: true
+    mermaid:
+      theme: dark
+    menu:
+      hideMissingTitles: true
+      useTextContentForMissingTitles: false
+    slide-number: true
+    theme: dark
+    transition: fade
+
+website:
+  google-analytics: G-SCSTN0WCDT
+  favicon: /assets/images/favicon.ico
+  navbar:
+    tools:
+      - icon: house
+        href: https://paddyroddy.github.io
+      - icon: github
+        href: https://github.com/paddyroddy/talks
+  title: ""
