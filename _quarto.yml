@@ -4,7 +4,7 @@ project:
 
 format:
   html:
-    theme: slate
+    theme: superhero
 
 website:
   google-analytics: G-397WWHGNV5
