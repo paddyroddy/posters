@@ -4,7 +4,16 @@ format:
   html:
     page-layout: full
 listing:
-  contents: .
+  contents:
+    - .
+    - date: 2025-08-20
+      author:
+        - "[Patrick J. Roddy](https://paddyroddy.github.io)"
+        - "[Saransh Chopra](https://saransh-cpp.github.io)"
+        - "[Nicolas Tessore](https://ntessore.page)"
+      path: euroscipy-2025.svg
+      subtitle: "[EuroSciPy 2025](https://euroscipy.org)"
+      title: Porting GLASS to the Python Array API
   date-format: iso
   exclude:
     title: Page Not Found
