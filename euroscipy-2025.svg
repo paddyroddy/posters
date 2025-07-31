@@ -150,7 +150,7 @@
      inkscape:window-height="1027"
      inkscape:window-x="1440"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer-MC0"><inkscape:page
        x="0"
        y="0"
@@ -441,6 +441,7 @@
        width="394.19058"
        height="221.39491"
        xlink:href="assets/images/arc-logo.svg"
-       id="image1"
+       id="arc-logo"
        x="1655.2153"
-       y="3059.0403" /></g></svg>
+       y="3059.0403"><title
+         id="title2">ARC Logo</title></image></g></svg>
