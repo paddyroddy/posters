@@ -144,8 +144,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.34782451"
-     inkscape:cx="2406.3859"
-     inkscape:cy="2584.6367"
+     inkscape:cx="2412.1359"
+     inkscape:cy="2498.3863"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1440"
@@ -438,8 +438,10 @@
          id="title2">ARC Logo</title></image><image
        width="396.40149"
        height="396.64941"
-       preserveAspectRatio="none"
+       preserveAspectRatio="xMidYMid"
        xlink:href="assets/images/glass-logo.png"
-       id="image1"
+       id="glass-logo"
        x="2583.2043"
-       y="2973.0142" /></g></svg>
+       y="2973.0142"
+       inkscape:svg-dpi="96"><title
+         id="title3">GLASS Logo</title></image></g></svg>
