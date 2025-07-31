@@ -144,8 +144,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.34782451"
-     inkscape:cx="1587.0072"
-     inkscape:cy="2239.6352"
+     inkscape:cx="281.75128"
+     inkscape:cy="1532.3819"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1440"
@@ -164,9 +164,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Horizontal template (48&quot;W x 36&quot;H)"><path
        id="path1"
-       d="M 0,0 H 1152 V 2592 H 0 Z"
-       style="fill:#f7a882;fill-opacity:0.89803922;fill-rule:nonzero;stroke:none"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,3456)" /><path
+       d="M -2.875013,3453.125 H 1533.1249 V -2.8749266 H -2.875013 Z"
+       style="fill:#f7a882;fill-opacity:0.898039;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
        id="path2"
        d="m 1152,1944 h 2304 v 648 H 1152 Z"
        style="fill:#651d75;fill-opacity:0.89803922;fill-rule:nonzero;stroke:none"
@@ -434,4 +433,13 @@
        x="2113.249"
        y="3122.9277"
        inkscape:svg-dpi="96"><title
-         id="title4">ARCHER2 Logo</title></image></g></svg>
+         id="title4">ARCHER2 Logo</title></image><image
+       width="385.72952"
+       height="385.82242"
+       preserveAspectRatio="xMidYMid"
+       xlink:href="assets/images/patrick-roddy.jpg"
+       id="patrick-roddy"
+       x="810.50098"
+       y="526.16992"
+       inkscape:svg-dpi="96"><title
+         id="title5">Patrick Roddy</title></image></g></svg>
