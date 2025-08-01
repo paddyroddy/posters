@@ -6,8 +6,9 @@ repos:
       - id: general-hooks
         exclude: |-
           (?x)^(
-            .*\.svg|
-            assets/images/.*\.(jpg|png)
+            .*\.jpg|
+            .*\.png|
+            .*\.svg
           )$
       - id: lua-hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
@@ -22,4 +23,4 @@ repos:
         args:
           - --enforce-all
           - --maxkb=5500
-        files: assets/images/.*\.(jpg|png)$
+        files: .*\.(jpg|png)$
