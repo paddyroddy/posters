@@ -4,7 +4,11 @@ repos:
     rev: v0.311.0
     hooks:
       - id: general-hooks
-        exclude: .svg$
+        exclude: |-
+          (?x)^(
+            .*\.svg|
+            assets/images/.*\.(jpg|png)
+          )$
       - id: lua-hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
@@ -13,3 +17,9 @@ repos:
         args:
           - --enforce-all
           - --maxkb=700
+        files: \.svg$
+      - id: check-added-large-files
+        args:
+          - --enforce-all
+          - --maxkb=5500
+        files: assets/images/.*\.(jpg|png)$
