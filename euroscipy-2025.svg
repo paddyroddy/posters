@@ -148,9 +148,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.69564902"
-     inkscape:cx="835.19129"
-     inkscape:cy="3031.7012"
+     inkscape:zoom="0.49189814"
+     inkscape:cx="2959.9624"
+     inkscape:cy="910.75766"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -174,9 +174,8 @@
        sodipodi:insensitive="true" /><path
        id="top-box"
        d="m 1152,1944 h 2304 v 648 H 1152 Z"
-       style="fill:#1d0d31;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,3456)"
-       sodipodi:insensitive="true" /><path
+       style="fill:#651a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,3456)" /><path
        id="bottom-box"
        d="M 1152,0 H 3456 V 432 H 1152 Z"
        style="fill:#a6317c;fill-opacity:0.988235;fill-rule:nonzero;stroke:none"
