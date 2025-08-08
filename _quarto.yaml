@@ -1,7 +1,7 @@
 ---
 project:
   resources:
-    - images
+    - figures
     - qrcodes
   type: website
 
