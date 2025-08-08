@@ -1,6 +1,7 @@
 ---
 project:
   resources:
+    - codeblocks
     - figures
     - qrcodes
   type: website
