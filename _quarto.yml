@@ -1,5 +1,7 @@
 ---
 project:
+  resources:
+    - assets
   type: website
 
 format:
