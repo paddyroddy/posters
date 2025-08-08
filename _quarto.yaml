@@ -1,7 +1,8 @@
 ---
 project:
   resources:
-    - assets
+    - images
+    - qrcodes
   type: website
 
 format:
@@ -10,7 +11,7 @@ format:
 
 website:
   google-analytics: G-397WWHGNV5
-  favicon: /assets/images/favicon.ico
+  favicon: favicon.ico
   navbar:
     tools:
       - icon: house
