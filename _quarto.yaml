@@ -1,9 +1,9 @@
 ---
 project:
   resources:
-    - codeblocks
-    - figures
-    - qrcodes
+    - "*.jpg"
+    - "*.png"
+    - "*.svg"
   type: website
 
 format:
