@@ -1,9 +1,8 @@
 ---
 project:
   resources:
-    - "*.jpg"
-    - "*.png"
-    - "*.svg"
+    - "figures/*"
+    - "patrick-roddy.jpg"
   type: website
 
 format:
