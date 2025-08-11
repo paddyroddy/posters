@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="0.2266368"
      inkscape:cx="2515.0373"
-     inkscape:cy="2545.9237"
+     inkscape:cy="1328.1162"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -224,14 +224,13 @@
        y="39.679016"
        sodipodi:insensitive="true" /><image
        width="564.86395"
-       height="565"
+       height="564.86395"
        preserveAspectRatio="xMidYMid"
-       xlink:href="../patrick-roddy.jpg"
+       xlink:href="../figures/patrick-roddy.jpg"
        id="me"
        x="2263.2444"
        y="37.297237"
-       inkscape:svg-dpi="96"
-       sodipodi:insensitive="true" /><image
+       inkscape:svg-dpi="96" /><image
        preserveAspectRatio="xMidYMid"
        inkscape:svg-dpi="96"
        width="300"
@@ -239,7 +238,8 @@
        xlink:href="figures/logo-arc.svg"
        id="logo-arc"
        x="1573.1688"
-       y="4229.1118" /><image
+       y="4229.1118"
+       sodipodi:insensitive="true" /><image
        width="300"
        height="300.18765"
        preserveAspectRatio="xMidYMid"
@@ -247,7 +247,8 @@
        id="logo-glass"
        x="2377.7029"
        y="4154.6006"
-       inkscape:svg-dpi="96" /><image
+       inkscape:svg-dpi="96"
+       sodipodi:insensitive="true" /><image
        width="400"
        height="112"
        preserveAspectRatio="xMidYMid"
@@ -255,7 +256,8 @@
        id="logo-archer2"
        x="1927.8574"
        y="4247.8521"
-       inkscape:svg-dpi="96" /><text
+       inkscape:svg-dpi="96"
+       sodipodi:insensitive="true" /><text
        xml:space="preserve"
        id="title"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#1d0d31"
@@ -298,7 +300,8 @@
        x="144.32802"
        y="4300.9751"
        id="abstract"
-       transform="matrix(1.0054998,0,0,1.6167664,-105.71432,-2840.6965)"><tspan
+       transform="matrix(1.0054998,0,0,1.6167664,-105.71432,-2840.6965)"
+       sodipodi:insensitive="true"><tspan
          x="144.32802"
          y="4300.9751"
          id="tspan8"><tspan
@@ -341,7 +344,8 @@
        xml:space="preserve"
        id="citation"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.4021px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25);shape-padding:3.73966;display:inline;fill:#1d0d31"
-       transform="matrix(1.0525596,0,0,1.0525596,-146.53933,-167.30759)"><tspan
+       transform="matrix(1.0525596,0,0,1.0525596,-146.53933,-167.30759)"
+       sodipodi:insensitive="true"><tspan
          x="2724.9785"
          y="4109.3989"
          id="tspan25"><tspan
@@ -415,7 +419,8 @@
          y="1685.2489"
          id="tspan39">Autodifferentiation</tspan></text><g
        id="message-4"
-       transform="matrix(1.1065802,0,0,1.1065802,-327.91955,-447.53582)"><image
+       transform="matrix(1.1065802,0,0,1.1065802,-327.91955,-447.53582)"
+       sodipodi:insensitive="true"><image
          width="1294.3628"
          height="836.83875"
          preserveAspectRatio="xMidYMid"
@@ -453,7 +458,8 @@
            aria-label="4"
            transform="matrix(1.2968995,0,0,1.2968995,1853.5495,3118.9054)" /></g></g><g
        id="message-3"
-       transform="matrix(1.0303777,0,0,1.0303777,-98.416713,-54.96405)"><image
+       transform="matrix(1.0303777,0,0,1.0303777,-98.416713,-54.96405)"
+       sodipodi:insensitive="true"><image
          width="829.44617"
          height="636.33087"
          preserveAspectRatio="xMidYMid"
@@ -496,7 +502,8 @@
            aria-label="3"
            transform="matrix(1.3333333,0,0,1.3333333,1808.4,2050.3434)" /></g></g><g
        id="message-2"
-       transform="translate(-6.6185193,-33.092596)"><image
+       transform="translate(-6.6185193,-33.092596)"
+       sodipodi:insensitive="true"><image
          width="967.5163"
          height="957.1377"
          preserveAspectRatio="xMidYMid"
@@ -529,7 +536,8 @@
            aria-label="2"
            transform="matrix(1.3333333,0,0,1.3333333,119.76222,3071.4641)" /></g></g><g
        id="message-1"
-       transform="matrix(0.981596,0,0,0.981596,-37.153666,-72.618911)"><image
+       transform="matrix(0.981596,0,0,0.981596,-37.153666,-72.618911)"
+       sodipodi:insensitive="true"><image
          width="1471.8998"
          height="867.13129"
          preserveAspectRatio="xMidYMid"
