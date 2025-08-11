@@ -11,7 +11,7 @@ listing:
         - "[Patrick J. Roddy](https://paddyroddy.github.io)"
         - "[Saransh Chopra](https://saransh-cpp.github.io)"
         - "[Nicolas Tessore](https://ntessore.page)"
-      path: euroscipy-2025/index.qmd
+      path: euroscipy-2025/index.svg
       subtitle: "[EuroSciPy 2025](https://euroscipy.org)"
       title: Porting GLASS to the Python Array API
   date-format: iso
