@@ -1,9 +1,7 @@
 ---
 project:
   resources:
-    - "*.jpg"
-    - "*.png"
-    - "*.svg"
+    - figures/*
   type: website
 
 format:
