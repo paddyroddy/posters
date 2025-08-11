@@ -5,3 +5,7 @@
 
 A series of posters made from the
 [evenbetterposter](https://mit-becl.github.io/Poster_Resources) framework.
+
+## QR Codes
+
+Generated using <https://genqrcode.com>.
