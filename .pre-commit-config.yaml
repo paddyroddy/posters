@@ -1,25 +1,19 @@
 ---
 repos:
   - repo: https://github.com/paddyroddy/.github
-    rev: v0.311.0
+    rev: v0.327.0
     hooks:
       - id: general-hooks
         exclude: |-
           (?x)^(
             .*\.jpg|
             .*\.pdf|
-            .*\.png|
-            .*\.svg
+            .*\.png
           )$
       - id: lua-hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
-      - id: check-added-large-files
-        args:
-          - --enforce-all
-          - --maxkb=700
-        files: \.svg$
       - id: check-added-large-files
         args:
           - --enforce-all
