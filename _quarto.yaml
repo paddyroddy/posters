@@ -9,7 +9,9 @@ format:
     theme: superhero
 
 website:
-  google-analytics: G-397WWHGNV5
+  google-analytics:
+    storage: none
+    tracking-id: G-397WWHGNV5
   favicon: favicon.ico
   navbar:
     tools:
