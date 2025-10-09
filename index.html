@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-48853523c56965cbee4e9d361ca5beef.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-b654365ec9f6baf3fdeb64dbed93b847.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -128,7 +129,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -153,6 +154,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Patrick J. Roddy</span>
     </a>
@@ -257,12 +260,12 @@ Event
 <span class="listing-subtitle"><a href="https://euroscipy.org">EuroSciPy 2025</a></span>
 </td>
 <td>
-<span class="listing-author"><a href="https://paddyroddy.github.io">Patrick J. Roddy</a>, <a href="https://saransh-cpp.github.io">Saransh Chopra</a>, <a href="https://ntessore.page">Nicolas Tessore</a></span>
+<span class="listing-author">Patrick J. Roddy, <a href="https://github.com/Saransh-cpp">Saransh Chopra</a>, <a href="https://github.com/ntessore">Nicolas Tessore</a></span>
 </td>
 
 </tr>
 
-<tr data-index="1" data-listing-date-sort="1623110400000" data-listing-file-modified-sort="1756826838373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Slepian Scale-Discretised Wavelets on the Sphere" data-listing-filename-sort="index.qmd">
+<tr data-index="1" data-listing-date-sort="1623110400000" data-listing-file-modified-sort="1760029348972" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Slepian Scale-Discretised Wavelets on the Sphere" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">2021-06-08</span>
 </td>
@@ -273,7 +276,7 @@ Event
 <span class="listing-subtitle"><a href="https://astronomy.outreach.psu.edu">2021 Statistical Challenges in Modern Astronomy VII</a></span>
 </td>
 <td>
-<span class="listing-author"><a href="https://paddyroddy.github.io">Patrick J. Roddy</a>, <a href="http://www.jasonmcewen.org">Jason McEwen</a></span>
+<span class="listing-author">Patrick J. Roddy, <a href="https://github.com/jasonmcewen">Jason McEwen</a></span>
 </td>
 
 </tr>
@@ -333,13 +336,14 @@ Event
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
