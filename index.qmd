@@ -8,9 +8,9 @@ listing:
     - .
     - date: 2025-08-20
       author:
-        - "[Patrick J. Roddy](https://paddyroddy.github.io)"
-        - "[Saransh Chopra](https://saransh-cpp.github.io)"
-        - "[Nicolas Tessore](https://ntessore.page)"
+        - Patrick J. Roddy
+        - "[Saransh Chopra](https://github.com/Saransh-cpp)"
+        - "[Nicolas Tessore](https://github.com/ntessore)"
       path: euroscipy-2025/index.svg
       subtitle: "[EuroSciPy 2025](https://euroscipy.org)"
       title: Porting GLASS to the Python Array API
