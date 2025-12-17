@@ -6,13 +6,10 @@ project:
 
 format:
   html:
+    include-in-header: goatcounter.html
     theme: superhero
 
 website:
-  body-footer:
-    <script async
-    data-goatcounter="https://paddyroddy-posters.goatcounter.com/count"
-    src="//gc.zgo.at/count.js"></script>
   favicon: favicon.ico
   navbar:
     tools:
