@@ -22,7 +22,7 @@ listing:
         - "[Nicolas Tessore](https://github.com/ntessore)"
       path: arc-festival-2026/index.svg
       subtitle:
-        "[ARC Festival of Digital Research, Innovation & Scholarship
+        "[Festival of Digital Research, Innovation & Scholarship
         2026](https://www.ucl.ac.uk/advanced-research-computing/events/2026/jun/festival-digital-research-innovation-scholarship)"
       title: Porting GLASS to the Python Array API
   date-format: iso
