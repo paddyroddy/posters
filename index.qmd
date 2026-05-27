@@ -8,7 +8,7 @@ listing:
     - .
     - date: 2025-08-20
       author:
-        - Patrick J. Roddy
+        - Patrick Roddy
         - "[Saransh Chopra](https://github.com/Saransh-cpp)"
         - "[Nicolas Tessore](https://github.com/ntessore)"
       path: euroscipy-2025/index.svg
