@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posters",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nEvent\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n2025-08-20\n\n\nPorting GLASS to the Python Array API\n\n\nEuroSciPy 2025\n\n\nPatrick J. Roddy, Saransh Chopra, Nicolas Tessore\n\n\n\n\n\n\n2021-06-08\n\n\nSlepian Scale-Discretised Wavelets on the Sphere\n\n\n2021 Statistical Challenges in Modern Astronomy VII\n\n\nPatrick J. Roddy, Jason McEwen\n\n\n\n\n\n\n2018-07-18\n\n\nIntrusion Detection from Network Logs\n\n\nUCL CDT in Data Intensive Science Group Projects\n\n\nPatrick J. Roddy, James Legg, Kevin Mulder\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "statistical-challenges-in-modern-astronomy-2021/index.html",
     "href": "statistical-challenges-in-modern-astronomy-2021/index.html",
     "title": "Slepian Scale-Discretised Wavelets on the Sphere",
@@ -7,10 +14,10 @@
     "text": "Download PDF file."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Posters",
+    "objectID": "ucl-cdt-data-intensive-science-group-projects/index.html",
+    "href": "ucl-cdt-data-intensive-science-group-projects/index.html",
+    "title": "Intrusion Detection from Network Logs",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nEvent\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n2025-08-20\n\n\nPorting GLASS to the Python Array API\n\n\nEuroSciPy 2025\n\n\nPatrick J. Roddy, Saransh Chopra, Nicolas Tessore\n\n\n\n\n\n\n2021-06-08\n\n\nSlepian Scale-Discretised Wavelets on the Sphere\n\n\n2021 Statistical Challenges in Modern Astronomy VII\n\n\nPatrick J. Roddy, Jason McEwen\n\n\n\n\n\n\nNo matching items"
+    "text": "Download PDF file."
   }
 ]
