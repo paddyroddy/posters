@@ -4,10 +4,10 @@ author:
   - "[James Legg](https://github.com/cjlegg)"
   - "[Kevin Mulder](https://github.com/kmulderdas)"
 date: 2018-07-18
-path: ucl-cdt-data-intensive-science-group-projects/index.qmd
+path: stfc-summer-school-in-artificial-intelligence-and-machine-learning-2018/index.qmd
 subtitle: >-
-  [UCL CDT in Data Intensive Science Group
-  Projects](https://www.ucl.ac.uk/data-intensive-science-industry/group-projects-industry-placements)
+  [STFC's Summer School in Artificial Intelligence and Machine
+  Learning](https://indico.cern.ch/event/702529)
 title: Intrusion Detection from Network Logs
 ---
 
