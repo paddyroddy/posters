@@ -1,0 +1,14 @@
+---
+author:
+  - Patrick J. Roddy
+  - "[James Legg](https://github.com/cjlegg)"
+  - "[Kevin Mulder](https://github.com/kmulderdas)"
+date: 2018-07-18
+path: ucl-cdt-data-intensive-science-group-projects/index.qmd
+subtitle: >-
+  [UCL CDT in Data Intensive Science Group
+  Projects](https://www.ucl.ac.uk/data-intensive-science-industry/group-projects-industry-placements)
+title: Intrusion Detection from Network Logs
+---
+
+{{< pdf index.pdf height=500 width=100% >}}
