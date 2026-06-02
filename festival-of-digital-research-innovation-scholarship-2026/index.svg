@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="768"
-     inkscape:cy="1010"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="636.3961"
+     inkscape:cy="834.386"
      inkscape:window-width="1512"
      inkscape:window-height="921"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g5"
+     inkscape:current-layer="layer-MC0"
      inkscape:document-units="mm"><inkscape:page
        x="0"
        y="0"
@@ -206,7 +206,7 @@
        sodipodi:insensitive="true" /><g
        id="message-4"
        transform="matrix(0.56260601,0,0,0.56285639,-282.95357,-310.84828)"><image
-         width="1278.7827"
+         width="1278.6379"
          height="826.76587"
          preserveAspectRatio="xMidYMid"
          xlink:href="figures/urng.png"
@@ -240,7 +240,7 @@
            transform="matrix(1.2968995,0,0,1.2968995,1853.5495,3118.9054)" /></g></g><g
        id="message-3"
        transform="matrix(0.4832353,0,0,0.48345037,-75.892989,-38.565122)"><image
-         width="829.44617"
+         width="829.12814"
          height="636.33087"
          preserveAspectRatio="xMidYMid"
          xlink:href="figures/typing-2.png"
@@ -248,7 +248,7 @@
          x="2555.5742"
          y="2157.0308"
          inkscape:svg-dpi="96" /><image
-         width="699.95795"
+         width="699.77049"
          height="658.78394"
          preserveAspectRatio="xMidYMid"
          xlink:href="figures/typing-1.png"
@@ -280,7 +280,7 @@
            transform="matrix(1.3333333,0,0,1.3333333,1808.4,2050.3434)" /></g></g><g
        id="message-2"
        transform="matrix(0.52178624,0,0,0.52201846,-35.156711,-155.31632)"><image
-         width="967.5163"
+         width="967.12869"
          height="957.1377"
          preserveAspectRatio="xMidYMid"
          xlink:href="figures/issues.png"
@@ -310,7 +310,7 @@
            transform="matrix(1.3333333,0,0,1.3333333,119.76222,3071.4641)" /></g></g><g
        id="message-1"
        transform="matrix(0.45716726,0,0,0.45737072,-40.236411,-22.705434)"><image
-         width="1471.8998"
+         width="1470.5268"
          height="867.13129"
          preserveAspectRatio="xMidYMid"
          xlink:href="figures/testing.png"
@@ -414,7 +414,7 @@
            id="path2" /></g></g><text
        xml:space="preserve"
        id="text10"
-       style="font-size:53.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);fill:#000000;fill-opacity:1"
+       style="font-size:53.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#000000;fill-opacity:1"
        transform="translate(26,-2)"
        x="666.0946"
        y="0"
@@ -431,21 +431,21 @@
          id="tspan14">NumPy</tspan></text><text
        xml:space="preserve"
        id="text19"
-       style="font-size:48px;line-height:2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19);fill:#000000;fill-opacity:1"
-       transform="translate(0,-30)"
+       style="font-size:48px;line-height:1.75;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19);display:inline;fill:#000000;fill-opacity:1"
+       transform="translate(0,-12)"
        x="-1.2304688e-05"
        y="0"
        inkscape:label="highlights"
        sodipodi:insensitive="true"><tspan
          x="811.75781"
-         y="681.21764"
+         y="675.21764"
          id="tspan15">Real-world porting experience
 </tspan><tspan
          x="811.75781"
-         y="777.21764"
+         y="759.21764"
          id="tspan16">GPU-backed simulations
 </tspan><tspan
          x="811.75781"
-         y="873.21764"
+         y="843.21764"
          id="tspan17">Differentiable workflows
 </tspan></text></g></svg>
