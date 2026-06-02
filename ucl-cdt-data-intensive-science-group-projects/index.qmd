@@ -1,6 +1,6 @@
 ---
 author:
-  - Patrick J. Roddy
+  - Patrick Roddy
   - "[James Legg](https://github.com/cjlegg)"
   - "[Kevin Mulder](https://github.com/kmulderdas)"
 date: 2018-07-18
