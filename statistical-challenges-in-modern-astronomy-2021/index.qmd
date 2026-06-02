@@ -10,4 +10,4 @@ subtitle: >-
 title: Slepian Scale-Discretised Wavelets on the Sphere
 ---
 
-{{< pdf index.pdf height=600 width=100% >}}
+{{< pdf index.pdf height=500 width=100% >}}
