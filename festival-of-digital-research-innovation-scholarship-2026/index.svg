@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="732.56263"
-     inkscape:cy="1527.3506"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="784.88853"
+     inkscape:cy="2227.3864"
      inkscape:window-width="1512"
      inkscape:window-height="921"
      inkscape:window-x="0"
@@ -214,7 +214,7 @@
        preserveAspectRatio="xMidYMid"
        xlink:href="figures/logo-archer2.png"
        id="logo-archer2"
-       x="679.28137"
+       x="673.28137"
        y="2096.4263"
        inkscape:svg-dpi="96"
        sodipodi:insensitive="true" /><g
@@ -267,7 +267,7 @@
            transform="matrix(1.2968995,0,0,1.2968995,1853.5495,3118.9054)" /></g><text
          xml:space="preserve"
          id="text25"
-         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25-2);fill:#000000"
+         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25-2);display:inline;fill:#000000"
          transform="matrix(1.7774428,0,0,1.7766522,508.26612,577.3519)"
          sodipodi:insensitive="true"><tspan
            x="820"
@@ -296,7 +296,7 @@
            transform="matrix(1.3333333,0,0,1.3333333,1808.4,2050.3434)" /></g><text
          xml:space="preserve"
          id="text24"
-         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);fill:#000000"
+         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#000000"
          transform="matrix(2.0693853,0,0,2.0684647,182.47272,120.7241)"
          sodipodi:insensitive="true"><tspan
            x="811.75781"
@@ -320,7 +320,7 @@
          xml:space="preserve"
          transform="matrix(1.9164937,0,0,1.9156411,55.87865,289.86776)"
          id="text21"
-         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);fill:#000000"
+         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);display:inline;fill:#000000"
          sodipodi:insensitive="true"><tspan
            x="88"
            y="1422.5928"
@@ -345,7 +345,7 @@
          xml:space="preserve"
          transform="matrix(2.1873833,0,0,2.1864102,88.012451,58.389032)"
          id="text2"
-         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000"
+         style="font-size:42.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000"
          sodipodi:insensitive="true"><tspan
            x="81"
            y="943.59279"
@@ -422,7 +422,7 @@
        inkscape:groupmode="layer"
        sodipodi:insensitive="true"><g
          id="g19"
-         transform="translate(266.67647)"><path
+         transform="translate(174.71907)"><path
            d="M 866.86,257.16 V 10.54 H 734.29 v 125.09 h -0.03 C 714.7,63.47 648.56,0 553.74,0 458.92,0 381.7,64.9 361.67,146.92 h -0.03 V 10.54 H 229.91 v 195.87 c 0,19.3 -2.52,31.04 -12.59,41.95 -10.07,10.91 -23.49,15.1 -36.08,15.1 -12.59,0 -26.01,-4.2 -36.08,-15.1 -10.07,-10.91 -12.59,-22.65 -12.59,-41.95 V 10.54 H 0 v 196.71 c 0,52.86 10.91,95.65 46.15,130.89 27.69,27.69 72.16,52.86 132.57,52.86 52.86,0 99.01,-18.46 132.57,-54.54 28.44,-30.11 43.48,-67.53 48.36,-100.98 h 0.03 C 377.14,322.25 454.72,391 553.73,391 641.01,391 711.9,334.26 734.28,255.3 V 379.79 H 980.96 V 257.15 H 866.85 Z M 612.27,225.72 c -8.39,22.65 -31.67,37.76 -58.52,37.76 -37.76,0 -65.66,-29.37 -65.66,-67.96 0,-38.59 27.9,-67.96 65.66,-67.96 26.85,0 50.13,15.1 58.52,37.76 h 122.02 v 60.41 H 612.27 Z"
            fill="#361a54"
            id="path1" /><path
