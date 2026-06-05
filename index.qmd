@@ -21,11 +21,11 @@ listing:
         - "[Saransh Chopra](https://github.com/Saransh-cpp)"
         - "[Nicolas Tessore](https://github.com/ntessore)"
       path: festival-of-digital-research-innovation-scholarship-2026/index.svg
-      subtitle:
-        "[Festival of Digital Research, Innovation & Scholarship
-        2026](https://www.ucl.ac.uk/advanced-research-computing/events/2026/jun/festival-digital-research-innovation-scholarship)"
-      title:
-        "Porting GLASS to the Python Array API: A Clear View to GPU Portability"
+      subtitle: >-
+        [Festival of Digital Research, Innovation & Scholarship
+        2026](https://www.ucl.ac.uk/advanced-research-computing/events/2026/jun/festival-digital-research-innovation-scholarship)
+      title: >-
+        Porting GLASS to the Python Array API: A Clear View to GPU Portability
   date-format: iso
   exclude:
     title: Page Not Found
