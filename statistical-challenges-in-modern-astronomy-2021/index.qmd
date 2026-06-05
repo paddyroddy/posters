@@ -1,6 +1,6 @@
 ---
 author:
-  - Patrick J. Roddy
+  - Patrick Roddy
   - "[Jason McEwen](https://github.com/jasonmcewen)"
 date: 2021-06-08
 path: statistical-challenges-in-modern-astronomy-2021/index.qmd
