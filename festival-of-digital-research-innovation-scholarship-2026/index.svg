@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="494.97475"
-     inkscape:cy="1822.9213"
+     inkscape:zoom="1"
+     inkscape:cx="1253"
+     inkscape:cy="1731.5"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="message-2"
+     inkscape:current-layer="message-4"
      inkscape:document-units="mm"
      inkscape:export-bgcolor="#ffffffff"><inkscape:page
        x="0"
@@ -252,7 +252,8 @@
        inkscape:svg-dpi="96"
        sodipodi:insensitive="true" /><g
        id="message-4"
-       transform="matrix(0.56260601,0,0,0.56285639,-272.41341,-266.8195)"><g
+       transform="matrix(0.56260601,0,0,0.56285639,-272.41341,-266.8195)"
+       sodipodi:insensitive="true"><g
          id="g13"
          transform="matrix(0.98796317,0,0,0.98796317,42.06561,3.1435212)"
          sodipodi:insensitive="true"><path
@@ -277,7 +278,17 @@
            x="820"
            y="1434.2595"
            id="tspan18">pytest-benchmark
-</tspan></text></g><g
+</tspan></text><image
+         width="1448.6881"
+         height="847.45392"
+         preserveAspectRatio="none"
+         xlink:href="figures/benchmarks.png"
+         id="image1-6"
+         x="1639.0692"
+         y="3165.6538"
+         transform="matrix(0.92744519,0,0,0.9274452,389.43002,253.80941)"
+         inkscape:label="benchmarks"
+         sodipodi:insensitive="true" /></g><g
        id="message-3"
        transform="matrix(0.4832353,0,0,0.48345037,-73.587284,-78.565122)"
        sodipodi:insensitive="true"><g
@@ -444,7 +455,8 @@
            points="400.5,43.8 375.5,87.1 350.5,43.8 "
            id="polygon38" /></g></g><g
        id="message-2"
-       transform="matrix(0.52178624,0,0,0.52201846,-53.317742,-123.96125)"><g
+       transform="matrix(0.52178624,0,0,0.52201846,-53.317742,-123.96125)"
+       sodipodi:insensitive="true"><g
          id="g11"
          transform="translate(6.6185192,-17.649385)"
          sodipodi:insensitive="true"><path
@@ -474,9 +486,10 @@
          preserveAspectRatio="none"
          xlink:href="figures/gradient.png"
          id="image1-8"
-         x="115.59855"
+         x="104.09959"
          y="3172.2278"
-         inkscape:label="gradient" /></g><g
+         inkscape:label="gradient"
+         sodipodi:insensitive="true" /></g><g
        id="message-1"
        transform="matrix(0.45716726,0,0,0.45737072,-57.090269,-64.705434)"><g
          id="g10"
