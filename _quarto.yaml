@@ -6,7 +6,7 @@ project:
 
 format:
   html:
-    include-in-header: goatcounter.html
+    include-in-header: header.html
     theme: superhero
 
 website:
