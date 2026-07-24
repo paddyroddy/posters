@@ -19,3 +19,5 @@ jobs:
       - uses: paddyroddy/.github/actions/links@51b992959f67661c3433840aec883cc9ddbe2945 # v0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          lychee-args:
+            --base-url https://paddyroddy.github.io --no-progress --verbose .
