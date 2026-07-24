@@ -2,6 +2,7 @@
 project:
   resources:
     - figures/*
+    - human.json
   type: website
 
 format:
