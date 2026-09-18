@@ -11,4 +11,4 @@ subtitle: >-
 title: Intrusion Detection from Network Logs
 ---
 
-{{< pdf index.pdf height=500 width=100% >}}
+{{< pdf stfc-summer-school-in-artificial-intelligence-and-machine-learning-2018.pdf height=500 width=100% >}}
