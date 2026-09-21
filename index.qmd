@@ -11,7 +11,7 @@ listing:
         - Patrick Roddy
         - "[Saransh Chopra](https://github.com/Saransh-cpp)"
         - "[Nicolas Tessore](https://github.com/ntessore)"
-      path: euroscipy-2025/index.svg
+      path: euroscipy-2025/euroscipy-2025.svg
       subtitle: "[EuroSciPy 2025](https://euroscipy.org)"
       title: Porting GLASS to the Python Array API
     - date: 2026-06-16
@@ -20,7 +20,7 @@ listing:
         - "[Connor Aird](https://github.com/connoraird)"
         - "[Saransh Chopra](https://github.com/Saransh-cpp)"
         - "[Nicolas Tessore](https://github.com/ntessore)"
-      path: festival-of-digital-research-innovation-scholarship-2026/index.svg
+      path: festival-of-digital-research-innovation-scholarship-2026/festival-of-digital-research-innovation-scholarship-2026.svg
       subtitle: >-
         [Festival of Digital Research, Innovation & Scholarship
         2026](https://www.ucl.ac.uk/advanced-research-computing/events/2026/jun/festival-digital-research-innovation-scholarship)
