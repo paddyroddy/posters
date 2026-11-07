@@ -15,6 +15,6 @@ jobs:
     runs-on: ubuntu-slim
     steps:
       # yamllint disable-line rule:line-length
-      - uses: paddyroddy/.github/actions/github-pages/quarto@51b992959f67661c3433840aec883cc9ddbe2945 # v0
+      - uses: paddyroddy/.github/actions/github-pages/quarto@67a4ca698e2e983c8a2edd3a970c7a297598b7dd # v0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
